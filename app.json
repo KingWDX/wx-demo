@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/home/page/tab/tabHome/tab",
+    "pages/logs/logs",
+    "pages/home/page/tab/tab1/tab1",
+    "pages/home/page/tab/tab3/tab3"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

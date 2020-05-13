@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "swiper-one": "../tab1/tab1",
+    "swiper-three": "../tab3/tab3"
+  },
+  "enablePullDownRefresh":true
+}
